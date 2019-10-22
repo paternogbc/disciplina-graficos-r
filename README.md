@@ -34,3 +34,7 @@ Alguns links importantes para aprofundamento ao longo da disciplina.
 # Templates
 
 - [Projeto Estruturado Rstudio](https://github.com/paternogbc/template-rstd-project)
+
+# Slides Aulas
+
+- [Aula 2](https://docs.google.com/presentation/d/1dC9hBTRHp9jFv3oBJKAVW_sESqlUDoLFO4FJWV2uVtM/edit?usp=sharing)
