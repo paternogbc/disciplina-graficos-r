@@ -37,4 +37,5 @@ Alguns links importantes para aprofundamento ao longo da disciplina.
 
 # Slides Aulas
 
-- [Aula 2](https://docs.google.com/presentation/d/1dC9hBTRHp9jFv3oBJKAVW_sESqlUDoLFO4FJWV2uVtM/edit?usp=sharing)
+- [Aula 2 - Organização de dados](https://docs.google.com/presentation/d/1dC9hBTRHp9jFv3oBJKAVW_sESqlUDoLFO4FJWV2uVtM/edit?usp=sharing)
+- [Aula 3 - Manipulação de dados](https://docs.google.com/presentation/d/1DqUBvR2-QZQwU4JC0pjT2Vbi5qfZGYCvSJ9wGy2BwLo/edit?usp=sharing)
