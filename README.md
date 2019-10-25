@@ -40,3 +40,4 @@ Alguns links importantes para aprofundamento ao longo da disciplina.
 - [Aula 2 - Organização de dados](https://docs.google.com/presentation/d/1dC9hBTRHp9jFv3oBJKAVW_sESqlUDoLFO4FJWV2uVtM/edit?usp=sharing)
 - [Aula 3 - Manipulação de dados](https://docs.google.com/presentation/d/1DqUBvR2-QZQwU4JC0pjT2Vbi5qfZGYCvSJ9wGy2BwLo/edit?usp=sharing)
 - [Aula 4 - Introduçao ao Rmarkdown](https://docs.google.com/presentation/d/1DCOQPQ4_BnkeoZ6urt_gkncNU_BZrPga9Fjxhnwg8Xg/edit?usp=sharing)
+- [Aula 5 - Introdução a teoria gráfica](https://docs.google.com/presentation/d/1L8nNj6KWYEewFzCCn-krAFWAV-Z_fsPnhncUhX-lmuU/edit?usp=sharing)
