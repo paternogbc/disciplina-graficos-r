@@ -37,8 +37,11 @@ Alguns links importantes para aprofundamento ao longo da disciplina.
 
 # Slides Aulas
 
+- [Aula 1 - Organização de projetos reproduzíveis](https://docs.google.com/presentation/d/1Px9Npa_ANqmmfjCXo9A-eBmWzgUmmkCKd7fBIq_gG6k/edit?usp=sharing)
 - [Aula 2 - Organização de dados](https://docs.google.com/presentation/d/1dC9hBTRHp9jFv3oBJKAVW_sESqlUDoLFO4FJWV2uVtM/edit?usp=sharing)
 - [Aula 3 - Manipulação de dados](https://docs.google.com/presentation/d/1DqUBvR2-QZQwU4JC0pjT2Vbi5qfZGYCvSJ9wGy2BwLo/edit?usp=sharing)
 - [Aula 4 - Introduçao ao Rmarkdown](https://docs.google.com/presentation/d/1DCOQPQ4_BnkeoZ6urt_gkncNU_BZrPga9Fjxhnwg8Xg/edit?usp=sharing)
 - [Aula 5 - Introdução a teoria gráfica](https://docs.google.com/presentation/d/1L8nNj6KWYEewFzCCn-krAFWAV-Z_fsPnhncUhX-lmuU/edit?usp=sharing)
 - [Aula 6 - Introdução ao ggplot2](https://docs.google.com/presentation/d/19FbbQvEo2YaM-y9unC96L2GjkqKQ8S0PzU4HQX-rJE4/edit?usp=sharing)
+- [Aula 7 - Introdução ao uso de cores](https://docs.google.com/presentation/d/15vxUUZnNBGsamxkkfuW1O0S_8DtxrMtcuGTmZ8ABSp4/edit?usp=sharing)
+
