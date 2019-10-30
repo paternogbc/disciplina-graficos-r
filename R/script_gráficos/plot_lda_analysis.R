@@ -1,4 +1,4 @@
-# Script to plot Principle Components Analysis (PCA)
+# Script to plot discriminant analysis
 
 # Pacotes-----------------------------------------------------------------------
 library(tidyverse)
