@@ -45,3 +45,6 @@ Alguns links importantes para aprofundamento ao longo da disciplina.
 - [Aula 6 - Introdução ao ggplot2](https://docs.google.com/presentation/d/19FbbQvEo2YaM-y9unC96L2GjkqKQ8S0PzU4HQX-rJE4/edit?usp=sharing)
 - [Aula 7 - Introdução ao uso de cores](https://docs.google.com/presentation/d/15vxUUZnNBGsamxkkfuW1O0S_8DtxrMtcuGTmZ8ABSp4/edit?usp=sharing)
 
+# Trabalho de final do curso
+- [Roteiro](https://docs.google.com/presentation/d/16_tjwvnr-IPkQ48NaZL23VwlUPkXP8DB0Wg7SnYAL3c/edit?usp=sharing)
+- [Modelo apresentação](https://docs.google.com/presentation/d/1AUsfZo-dCBWnL7xJwCT1-uql4jxQ4o4Pwz76ASDIyQI/edit?usp=sharing)
