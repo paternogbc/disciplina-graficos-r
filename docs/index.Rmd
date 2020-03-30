@@ -25,7 +25,8 @@ opts_knit$set(width=75)
 
 # Disciplina: Gráficos Científicos no R 
 
-Repositório com scripts, dados e exercícios da disciplina de Gráficos Científicos no R  
+Repositório com scripts, dados e exercícios da disciplina de Gráficos Científicos no R.  
+Acesse o código fonte desta página [aqui](https://github.com/paternogbc/disciplina-graficos-r).  
 
 __Docente:__ `Gustavo Brant Paterno` (paternogbc@gmail.com)
 
