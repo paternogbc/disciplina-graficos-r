@@ -1,9 +1,10 @@
 ---
-title: ""
-date: "`r Sys.Date()`"
+title: "Gráficos Científicos no R"
+author: "Gustavo Paterno"
 output:
-  rmdformats::readthedown:
-    highlight: kate
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
 ---
 
 
@@ -23,10 +24,11 @@ opts_chunk$set(echo=FALSE,
 opts_knit$set(width=75)
 ```
 
-# Disciplina: Gráficos Científicos no R 
+# Disciplina: Gráficos Científicos no R
 
 Repositório com scripts, dados e exercícios da disciplina de Gráficos Científicos no R.  
-Acesse o código fonte desta página [aqui](https://github.com/paternogbc/disciplina-graficos-r).  
+
+Atualizado `r Sys.Date()`.
 
 __Docente:__ `Gustavo Brant Paterno` (paternogbc@gmail.com)
 
@@ -75,3 +77,8 @@ Alguns links importantes para aprofundamento ao longo da disciplina.
 # Trabalho de final do curso
 - [Roteiro](https://docs.google.com/presentation/d/16_tjwvnr-IPkQ48NaZL23VwlUPkXP8DB0Wg7SnYAL3c/edit?usp=sharing)
 - [Modelo apresentação](https://docs.google.com/presentation/d/1AUsfZo-dCBWnL7xJwCT1-uql4jxQ4o4Pwz76ASDIyQI/edit?usp=sharing)
+
+# Contribua
+
+* O código fonte deste repositório pode ser acessado no [Github](https://github.com/paternogbc/disciplina-graficos-r).  
+* Caso encontre algum erro ou caso tenha alguma sugestão para melhorar este curso, deixe um comentário [aqui](https://github.com/paternogbc/disciplina-graficos-r/issues/new). 
